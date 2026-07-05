@@ -8,6 +8,6 @@ It is a simple webpage that contains:
 
  I have deploy my project on netlifyy this is the live preview of my task here is the link below.
  
- Author -Eman mudasir
+ Author -Eman 
   
 https://app.netlify.com/teams/eman4455/projects
