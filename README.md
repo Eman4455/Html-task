@@ -6,6 +6,7 @@ It is a simple webpage that contains:
 - A contact form  
 - Basic structure of a company page
 
-  I have deploy my project on netlifyy this is the live preview of my task here is the link below.
+ I have deploy my project on netlifyy this is the live preview of my task here is the link below.
+ Author -Eman mudasir
   
 https://app.netlify.com/teams/eman4455/projects
